@@ -21,7 +21,7 @@ LifeChain focuses on:<br />
 - **Google Cloud Platform**: cloud for deploying DataStax Astra
 - **Figma**: for prototyping design before development
 
-# Programming Languages & Frameworks
+## Programming Languages & Frameworks
 - JavaScript
 - React.js
 - Node.js
