@@ -4,7 +4,7 @@
 One of the biggest challenges in the Healthcare Industry today is the ability to maintain consistent patient data that can be easily and securely transferred between clinics, hospitals, labs, and specialists. It is also difficult for patients to access a complete history of their own medical data. People with frequent health complications or chronic illness have to keep track of multiple forms of data such as diagnoses, medications, and tests. LifeChain’s goal is to create a platform that can provide ease of data access for patients, and ease of data transfer between healthcare providers to keep information consistent and accurate.<br /><br />
 LifeChain focuses on:<br />
 - **Security**: using Blockchain algorithms to create a chain of trust and transfer data between institutions securely<br />
-- **Consistency**: maintain data integrity due to immutable Blockchain technology and<br />
+- **Consistency**: maintain data integrity due to immutable Blockchain technology <br />
 - **Transparency**: allow transparency between healthcare providers and patients about diagnostics and medications<br />
 - **Usability**: sleek and user friendly interface to allow for a positive user experience for all stakeholders<br />
 
